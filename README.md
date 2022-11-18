@@ -1,0 +1,1 @@
+One of the key metrics of the product is the client's LTV, with the help of python tools I will do analytics in search of insiders and evaluate the indicator
